@@ -60,7 +60,7 @@ python app.py
 ### 5️⃣ Open in Browser
 
 
-http://127.0.0.1:5000
+https://special-giggle-g4gpvj56646xf6w-5000.app.github.dev/
 
 ## 🌍 Database
 
